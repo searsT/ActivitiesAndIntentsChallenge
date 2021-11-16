@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">ActivitiesAndIntentsChallenge</string>
+    <string name="text_1">Text 1</string>
+    <string name="text_3_body">
+        It\'s time for Animaniacs\n
+        And we\'re zany to the max\n
+        So just sit back and relax\n
+        You\'ll laugh \'til you collapse\n
+        We\'re Animaniacs!\n\n
+
+        Come join the Warner Brothers\n
+        And the Warner Sister, Dot\n
+        Just for fun we run around the Warner movie lot.\n
+        They lock us in the tower whenever we get caught\n
+        But we break loose and then vamoose\n
+        And now you know the plot!\n\n
+
+        We\'re Animaniacs!\n
+        Dot is cute and Yakko yaks.\n
+
+        Wakko packs away the snacks\n
+        While Bill Clinton plays the sax.\n
+        (or We\'ve got wisecracks by the stacks.)\n
+        (or We pay tons of income tax.)\n
+        We\'re Animaniacs!\n
+        Meet Pinky and the Brain who want to rule the universe.\n
+        (or Meet Ralph and Dr Scratchansniff; say hi to Hello Nurse.)\n
+        Goodfeathers flock together; Slappy whacks \'em with her purse.\n
+        Buttons chases Mindy, while Rita sings a verse.\n
+        The writers flipped; we have no script\n
+        Why bother to rehearse?\n\n
+
+        Cast : We\'re Animaniacs!\n
+        We have pay-or-play contracts.\n
+        We\'re zany to the max\n
+        There\'s baloney in our slacks.\n\n
+
+        We\'re Animanie,\n
+        Totally insaney\n\n
+
+        source: https://www.lyricsondemand.com/tvthemes/animaniacslyrics.html
+
+    </string>
+    <string name="text_2_body">
+        Just sit right back and you\'ll hear a tale,\n
+        A tale of a fateful trip\n
+        That started from this tropic port\n
+        Aboard this tiny ship.\n\n
+
+        The mate was a mighty sailing man,\n
+        The skipper brave and sure.\n
+        Five passengers set sail that day\n
+        For a three hour tour, a three hour tour.\n\n
+
+        The weather started getting rough,\n
+        The tiny ship was tossed,\n
+        If not for the courage of the fearless crew\n
+        The Minnow would be lost, the Minnow would be lost.\n\n
+
+        The ship set ground on the shore of this uncharted desert isle\n
+        With Gilligan\n
+        The Skipper too,\n
+        The millionaire and his wife,\n
+        The movie star\n
+        The Professor and Mary Ann,*\n
+        Here on Gilligan\'s Isle.\n\n
+
+        source: https://www.lyricsondemand.com/tvthemes/gilligansislandlyrics.html
+
+    </string>
+    <string name="text_1_body">The end of the Civil War was near When quite accidentally, \n\n
+        A hero who sneezed abruptly seized Retreat and reversed it to victory. \n\n
+        His medal of honor pleased and thrilled his proud little family group. \n\n
+        While pinning it on some blood was spilled And so it was planned he\'d command F Troop. \n\n
+        Where Indian fights are colorful sights and nobody takes a lickin\' \n\n
+        Where pale face and redskin Both turn chicken. \n\n
+        When drilling and fighting get them down, They know their morale can\'t droop. \n\n
+        As long as they all relax in town Before they resume with a bang and a boom F Troop. \n\n
+        source: https://www.lyricsondemand.com/tvthemes/ftrooplyrics.html</string>
+    <string name="text_2">Text 2</string>
+    <string name="text_3">Text 3</string>
+</resources>
